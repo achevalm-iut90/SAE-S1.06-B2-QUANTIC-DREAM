@@ -1,13 +1,21 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0 5% 0 5%;
 }
 
 
 h1{
-    font-size: large;
     text-align: center;
+    margin-top: 2%;
+    margin-bottom: 5%;
+    /* color: dodgerblue;
+    text-align: center;
+    border: 2px solid dodgerblue;
+    padding: 10px;
+    font-size: 28px; */
 }
 
 p{
-    font-size: medium;
+    font-size: large;
+    text-align: justify;
 }
