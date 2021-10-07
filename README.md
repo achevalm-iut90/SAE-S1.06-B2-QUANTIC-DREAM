@@ -1,1 +1,8 @@
 # SAE-S1.06-B2
+
+S1-B2 :
+Maxime CRAYSSAC
+Gabin BLONDIEAU
+Alida GANSANE
+Nicolas PICOT
+Arnaud CHEVALME
