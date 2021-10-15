@@ -16,4 +16,4 @@ Nous voulions une barre de navigation simple et intuitive applicable aux différ
 ![écran prototype](doc/ecran_prototype.png)
 
 # Livrable parties Économie et Documents numérique
-[écran prototype](doc/groupe_CRAYSSAC_BLONDIEAU_GANSANE_PICOT_CHEVALME.pdf)
+[Rapport](doc/groupe_CRAYSSAC_BLONDIEAU_GANSANE_PICOT_CHEVALME.pdf)
