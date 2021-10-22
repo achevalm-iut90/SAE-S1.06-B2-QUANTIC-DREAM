@@ -19,4 +19,4 @@ Nous voulions une barre de navigation simple et intuitive applicable aux différ
 [Rapport](doc/CHEVALME_SAES106_B2_QuanticDream.pdf)
 
 # Page d'accueil du site :
-[Acceuil Site](https://achevalm-iut90.github.io/SAE-S1.06-B2-QUANTIC-DREAM/accueil.html)
+[Accueil Site](https://achevalm-iut90.github.io/SAE-S1.06-B2-QUANTIC-DREAM/accueil.html)
