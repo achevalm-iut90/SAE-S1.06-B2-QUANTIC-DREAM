@@ -25,7 +25,7 @@ body{
 h1{
     text-align: center;
     margin-top: 4%;
-    margin-bottom: 100px;
+    margin-bottom: 4%;
     font-size: 50px; 
 }
 h2{
@@ -40,7 +40,7 @@ p{
 }
 
 hr{
-    border: 1px solid black; /*#094CFA à essayer ?*/
+    border: 1px solid black;
     width: 66%;
     margin: auto;
     margin-top: 100px;
@@ -51,6 +51,20 @@ hr{
     max-width: 100%;
     min-width: 100%;
     object-fit: contain;
+}
+
+.quote{
+    font-style: italic;
+    font-size: 18px;
+}
+
+#toTop {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    font-size: 35px;
+    border-radius: 50%;
+    border: white solid 2px;
 }
 
 
